@@ -4,7 +4,7 @@ import ToDoItem from './ToDoItem.jsx'
 
 const state = [
     {
-        inputData: "",
+        inputData: "Hope you are Fine! :)",
         hidden: false
     }
 ]
